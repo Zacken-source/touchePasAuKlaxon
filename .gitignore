@@ -1,0 +1,5 @@
+/vendor/
+/node_modules/
+config/config.php
+public/assets/css/app.css
+gen_hash.php
