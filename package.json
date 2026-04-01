@@ -1,0 +1,11 @@
+{
+    "name": "klaxon",
+    "scripts": {
+        "sass": "sass --load-path=node_modules public/assets/scss/app.scss public/assets/css/app.css",
+        "sass:watch": "sass public/assets/scss/app.scss public/assets/css/app.css --watch"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.0",
+        "sass": "^1.69.0"
+    }
+}
